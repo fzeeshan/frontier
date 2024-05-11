@@ -1,4 +1,9 @@
 # Polkadot Frontier
+Built successfully using the following version:
+rustup 1.27.1 (54dd3d00f 2024-04-24)
+info: This is the version for the rustup toolchain manager, not the rustc compiler.
+info: The currently active `rustc` version is `rustc 1.77.1 (7cf61ebde 2024-03-27)`
+
 
 [![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/polkadot-evm/frontier/test.yml)](https://github.com/polkadot-evm/frontier/actions)
 [![Matrix](https://img.shields.io/matrix/frontier:matrix.org)](https://matrix.to/#/#frontier:matrix.org)
